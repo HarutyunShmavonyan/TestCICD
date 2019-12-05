@@ -6,7 +6,7 @@ namespace CICD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1");
+            Console.WriteLine1("1");
         }
     }
 }
